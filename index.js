@@ -1,6 +1,2 @@
- console.log('aaaa');
- console.log('aaaa'); 
- console.log('aaaa'); 
- console.log('aaaa'); 
- console.log('aaaa'); 
- console.log('aaaa');
+ console.log('index');
+ console.log('new-index');
